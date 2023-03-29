@@ -1,0 +1,8 @@
+.section {
+  display: block;
+}
+
+.sectionTitle {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
